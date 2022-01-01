@@ -1,0 +1,10 @@
+body {
+    background-color: burlywood;
+}
+
+.searchBar {
+    display: block;
+    color: burlywood;
+    align-items: center;
+    width: 50%;
+}
